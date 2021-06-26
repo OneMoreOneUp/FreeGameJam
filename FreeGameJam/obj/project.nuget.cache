@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VOheO+xS+4Dq0aD2au58XlwwSLfXcrcQesxO7c7FHdOimYCx7ckZAmHKS3BvA7S6rkZB28C1XbAk2heeCFG6A==",
+  "success": true,
+  "projectFilePath": "G:\\Game Projects\\Scratch\\FreeGameJam\\FreeGameJam\\FreeGameJam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
