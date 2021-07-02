@@ -1,1 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"G:/Game Projects/Scratch/FreeGameJam/FreeGameJam/Content/HeavyBandit.png","G:/Game Projects/Scratch/FreeGameJam/FreeGameJam/Content/bin/DesktopGL/Content/HeavyBandit.xnb","TextureProcessor","Texture2DContent",8891,524373,0.1341968
+"G:/Game Projects/Scratch/FreeGameJam/FreeGameJam/Content/LightBandit.png","G:/Game Projects/Scratch/FreeGameJam/FreeGameJam/Content/bin/DesktopGL/Content/LightBandit.xnb","TextureProcessor","Texture2DContent",8217,524373,0.0122739
+"G:/Game Projects/Scratch/FreeGameJam/FreeGameJam/Content/Warrior_Sheet-Effect.png","G:/Game Projects/Scratch/FreeGameJam/FreeGameJam/Content/bin/DesktopGL/Content/Warrior_Sheet-Effect.xnb","TextureProcessor","Texture2DContent",47683,1238773,0.0569171

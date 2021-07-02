@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<sprite name="TopGrass">
+		<sheet>Forest_Tileset</sheet>
+		<frame>
+			<xPosition>1</xPosition>
+			<yPosition>56</yPosition>
+			<width>16</width>
+			<height>16</height>
+		</frame>
+	</sprite>
+</data>
